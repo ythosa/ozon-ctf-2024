@@ -1,4 +1,4 @@
-package main
+package pdr
 
 import (
 	"crypto/aes"
